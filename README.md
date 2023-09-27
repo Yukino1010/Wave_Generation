@@ -4,7 +4,7 @@
 ![image](https://github.com/Yukino1010/Wave_Generation/blob/master/image_source/img_1.png)
 
 Kong et al. (2020) introduced DiffWave as a probabilistic diffusion model that can generate conditional and unconditional waveforms.  <br>
-It converts white noise signals into structured waveforms during synthesis using a constant number of steps using a Markov chain mechanism.
+It converts white noise signals into structured waveforms during synthesis using a Markov chain mechanism, all within a consistent number of steps.
 
 ## The Key Advantages Offered by DiffWave
 ### Better audio quality
