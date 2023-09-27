@@ -30,6 +30,9 @@ this could be regarded as continuously adding noise into the image and then reve
 
 ![image](https://github.com/Yukino1010/Wave_Generation/blob/master/image_source/img_2.png)
 
+***For the detail, welcome visit my medium*** [[link](https://medium.com/p/b6579be7838e/edit)]
+
+
 ## References
 1. ***WaveNet: A Generative Model for Raw Audio*** [[link](https://arxiv.org/abs/1609.03499)]
 2. ***DiffWave: A Versatile Diffusion Model for Audio Synthesis*** [[link](https://arxiv.org/abs/2009.09761)]
